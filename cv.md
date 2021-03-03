@@ -11,10 +11,11 @@
   Skype: hrynchak  
 
  ## Summary ##
- I have been working as a doctor for almost 28 years and last 25 of them I have been working as the head  
- of the hemodialysis department of a city hospital. I always had had an interest in computers and all  
- that connected with them. And now I have a strong desire to change my life and to become a developer.  
- As the first step to it, I hope to get new knowledge in "Rolling-Scopes" school.
+ I have been working as a doctor for almost 28 years and last 24 of them I have been working as the head of  
+ the hemodialysis department of a city hospital. now I am a nephrologist of the highest category, head of  
+ the hemodialysis department. I always had had an interest in computers and all that connected with them.  
+ And now I have a strong desire to change my life and to become a developer. As the first step to it, I hope  
+ to get new knowledge in "Rolling-Scopes" school.
  
  ## Skills ##
  *(all in future)* 
@@ -40,4 +41,9 @@
 ## Experience ##
 I have no experience in web development yet, except my own site as a wedding photographer that existed  
 from 2010 to 2018.
+
+## Education ##
+1987 -1993 Bevarusian state Medical university
+Many different continuing education courses, congresses and conferences.
+
  
