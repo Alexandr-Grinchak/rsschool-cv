@@ -46,4 +46,6 @@ from 2010 to 2018.
 1987 -1993 Bevarusian state Medical university
 Many different continuing education courses, congresses and conferences.
 
- 
+## English ## 
+I have English A2 level and I'm improving it with a teacher.  
+
