@@ -6,9 +6,9 @@
 ## Contact Info and Personal details ## 
   Date of birth 04 July 1970   
   City: Baranovichy  
-  E-mail: alexandr.grinchak@gmail.com  
+  E-mail: grinchak.alexandr@gmail.com  
   Phone number: +375 29 721 88 90  
-  Skype: hrynchak
+  Skype: hrynchak  
   
   ## Summary ##
  I have been working as a doctor for almost 28 years and last 24 of them I have been working as the head of  
