@@ -8,7 +8,7 @@ _Web developer in future_
 ## Contact Info and Personal details
 
 Date of birth 04 July 1970  
- City: Baranovichy  
+ City: Baranovichy Belarus  
  E-mail: grinchak.alexandr@gmail.com  
  Phone number: +375 29 721 88 90  
  Skype: hrynchak
