@@ -6,12 +6,11 @@
 ## Contact Info and Personal details ## 
   Date of birth 04 July 1970   
   City: Baranovichy  
-  E-mail: alexandr.grinchak@gmail.com  
+  E-mail: alexandr.grinchak@gmail.com
   Skype: hrynchak
-  Phone number: +375 29 721 88 90  
+  Phone number: +375 29 721 88 90
   
   ## Summary ##
-  
  I have been working as a doctor for almost 28 years and last 24 of them I have been working as the head of  
  the hemodialysis department of a city hospital. now I am a nephrologist of the highest category, head of  
  the hemodialysis department. I always had had an interest in computers and all that connected with them.  
