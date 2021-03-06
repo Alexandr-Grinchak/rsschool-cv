@@ -1,4 +1,3 @@
-
 # Aliaksndr Hrynchak
 
 _Web developer in future_
@@ -16,22 +15,6 @@ Date of birth 04 July 1970
 ## Summary
 
 I have been working as a doctor for almost 28 years and last 24 of them I have been working as the head of  
- the hemodialysis department of a city hospital. Now I am a nephrologist of the highest category, head of  
-=======
-# Aliaksndr Hrynchak #
-*Web developer in future*
-
-***
-
-## Contact Info and Personal details ## 
-  Date of birth 04 July 1970   
-  City: Baranovichy  
-  E-mail: grinchak.alexandr@gmail.com  
-  Phone number: +375 29 721 88 90  
-  Skype: hrynchak  
-  
-  ## Summary ##   
- I have been working as a doctor for almost 28 years and last 24 of them I have been working as the head of  
  the hemodialysis department of a city hospital. now I am a nephrologist of the highest category, head of  
  the hemodialysis department. I always had had an interest in computers and all that connected with them.  
  And now I have a strong desire to change my life and to become a developer. As the first step to it, I hope  
