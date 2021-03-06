@@ -10,14 +10,14 @@
   Phone number: +375 29 721 88 90  
   Skype: hrynchak  
 
- ## Summary ##
+ ## Summary
  I have been working as a doctor for almost 28 years and last 24 of them I have been working as the head of  
  the hemodialysis department of a city hospital. now I am a nephrologist of the highest category, head of  
  the hemodialysis department. I always had had an interest in computers and all that connected with them.  
  And now I have a strong desire to change my life and to become a developer. As the first step to it, I hope  
  to get new knowledge in "Rolling-Scopes" school.
  
- ## Skills ##
+ ## Skills
  *(all in future)* 
  * Jawa Script  
  * HTML  
@@ -25,7 +25,7 @@
  * React 
  * Others
  
-## Code examples 
+## Code examples ##
   ```
   <!DOCTYPE html>
   <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
