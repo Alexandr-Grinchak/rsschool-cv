@@ -7,15 +7,24 @@ _Web developer in future_
 ## Contact Info and Personal details
 
 Date of birth 04 July 1970  
+<<<<<<< HEAD
  City: Baranovichy  
  E-mail: alexandr.grinchak@gmail.com  
+=======
+ City: Baranovichy Belarus  
+ E-mail: grinchak.alexandr@gmail.com  
+>>>>>>> a19ef39f6042dd41bf60d85f5df9ad716440546d
  Phone number: +375 29 721 88 90  
  Skype: hrynchak
 
 ## Summary
 
 I have been working as a doctor for almost 28 years and last 24 of them I have been working as the head of  
+<<<<<<< HEAD
  the hemodialysis department of a city hospital. now I am a nephrologist of the highest category, head of  
+=======
+ the hemodialysis department of a city hospital. Now I am a nephrologist of the highest category, head of  
+>>>>>>> a19ef39f6042dd41bf60d85f5df9ad716440546d
  the hemodialysis department. I always had had an interest in computers and all that connected with them.  
  And now I have a strong desire to change my life and to become a developer. As the first step to it, I hope  
  to get new knowledge in "Rolling-Scopes" school.
