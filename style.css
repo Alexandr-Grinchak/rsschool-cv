@@ -85,7 +85,9 @@ footer {
 }
 footer p {
   padding: 40px;
-  font-size: 15px;
+  font-size: 25px;
+  font-style: initial;
+  float: left;
 }
 a:link {
   color: #000000;
@@ -95,4 +97,7 @@ a:visited {
 }
 a:hover {
   color: #ffffff;
+}
+main a:hover {
+  color: #bbbbbb;
 }
